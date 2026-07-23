@@ -1,0 +1,21 @@
+{
+  "repo": "artemissecurity",
+  "feeds": [
+    {
+      "source": "https://artemissecurity.com",
+      "feed_url": "https://artemissecurity.com/feed/",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    },
+    {
+      "source": "https://artemissecurity.com/blog/",
+      "feed_url": "https://artemissecurity.com/blog/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-07-20T13:31:34Z"
+}
