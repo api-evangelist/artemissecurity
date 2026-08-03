@@ -2,11 +2,11 @@
   "repo": "artemissecurity",
   "feeds": [
     {
-      "source": "https://artemissecurity.com",
+      "source": "https://artemissecurity.com/feed/",
       "feed_url": "https://artemissecurity.com/feed/",
       "title": "",
-      "saved": 1,
-      "method": "discovered"
+      "saved": 0,
+      "method": "feed"
     },
     {
       "source": "https://artemissecurity.com/blog/",
@@ -14,8 +14,15 @@
       "title": "",
       "saved": 0,
       "method": "none"
+    },
+    {
+      "source": "https://artemissecurity.com",
+      "feed_url": "https://artemissecurity.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
     }
   ],
-  "post_count": 1,
-  "fetched": "2026-07-20T13:31:34Z"
+  "post_count": 9,
+  "fetched": "2026-08-01T15:49:00Z"
 }
