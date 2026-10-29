@@ -1,4 +1,4 @@
-# Artemissecurity
+# Artemis Security
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Artemissecurity is a company surfaced as a portfolio company of felicis and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Artemis Security is an AI-native security operations platform that detects and responds to threats faster than traditional SIEMs, cutting mean time to detection and response with claims of up to 96% reduction in resolution times. The platform performs environment-specific threat detection, multi-source correlation across identity, cloud, endpoint, network, and SaaS signals, natural-language AI threat hunting, and autonomous investigation with automatic case generation and detection-gap closure. It integrates with enterprise tools such as Okta, AWS, Salesforce, Snowflake, and Databricks. The company emerged from stealth with $70M in funding from Felicis Ventures, First Round Capital, and Brightmind Partners. This profile was added to the API Evangelist network as a portfolio lead and enriched from the company's public surface; no public developer API, SDK, or developer portal is currently published.
 
-Backed by: felicis — https://artemissecurity.com
+**Areas:** Company · Security · Cybersecurity · Threat Detection · Security Operations · SIEM · Artificial Intelligence · SOC · Cloud Security
+
+## Artemis Security on APIs.io
+
+Everything profiled for Artemis Security is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/artemissecurity/](https://apis.io/providers/artemissecurity/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Artemissecurity Domain Security](https://apis.io/security/artemissecurity/artemissecurity-domain-security/)
+- [Artemissecurity Trust Center](https://apis.io/security/artemissecurity/artemissecurity-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://artemissecurity.com)
+- [Blog](https://artemissecurity.com/blog/)
+- [Compliance](https://artemissecurity.com/security/)
+
+## API Evangelist rating
+
+**Kin Score 7.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 15.8 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/artemissecurity/](https://apis.io/providers/artemissecurity/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Artemis Security: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/artemissecurity/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
